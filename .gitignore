@@ -1,0 +1,15 @@
+*.png
+*.traj
+*.log
+*.xyz
+*.svg
+*.hdf5
+*.cif
+*.pdf
+.ipynb_checkpoints/
+
+__pycache__/
+*_vib/
+vib/
+DFT_calculations/
+ML/
